@@ -1,0 +1,17 @@
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\infraestructure\repositories\JpaCustomerRepository.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\infraestructure\entities\CustomerEntity.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\domain\ports\in\DeleteCustomerUseCase.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\domain\model\Customer.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\application\usecases\FindCustomersUseCaseImpl.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\application\usecases\DeleteCustomerUseCaseImpl.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\domain\ports\out\CustomerRepositoryPort.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\infraestructure\controllers\CustomerController.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\domain\ports\in\CreateCustomerUseCase.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\domain\ports\in\FindCustomersUseCase.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\domain\ports\in\UpdateCustomerUseCase.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\CustomerservicehexaApplication.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\application\services\CustomerService.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\application\usecases\UpdateCustomerUseCaseImpl.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\infraestructure\repositories\JpaCustomerRepositoryAdapter.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\infraestructure\config\ApplicationConfig.java
+C:\Users\Laura\Downloads\customerservicehexa\src\main\java\edu\uptc\swii\customerservicehexa\application\usecases\CreateCustomerUseCaseImpl.java
